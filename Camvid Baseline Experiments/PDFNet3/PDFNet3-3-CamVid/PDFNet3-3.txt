@@ -1,0 +1,737 @@
+Epoch 0/179, current lr=1e-06
+Copied best model weights!
+train loss: 206104.750859
+val loss: 381664.978651
+----------
+Epoch 1/179, current lr=1e-06
+Copied best model weights!
+train loss: 143862.258242
+val loss: 159319.515161
+----------
+Epoch 2/179, current lr=1e-06
+Copied best model weights!
+train loss: 126229.351820
+val loss: 117077.831374
+----------
+Epoch 3/179, current lr=1e-06
+Copied best model weights!
+train loss: 104185.659942
+val loss: 95543.296952
+----------
+Epoch 4/179, current lr=1e-06
+train loss: 97420.593578
+val loss: 132344.534499
+----------
+Epoch 5/179, current lr=1e-06
+train loss: 96410.171274
+val loss: 116031.541770
+----------
+Epoch 6/179, current lr=1e-06
+Copied best model weights!
+train loss: 88053.043441
+val loss: 91448.197401
+----------
+Epoch 7/179, current lr=1e-06
+Copied best model weights!
+train loss: 78208.235148
+val loss: 82756.493967
+----------
+Epoch 8/179, current lr=1e-06
+train loss: 73536.966861
+val loss: 125511.089960
+----------
+Epoch 9/179, current lr=1e-06
+train loss: 70368.689732
+val loss: 94017.372215
+----------
+Epoch 10/179, current lr=1e-06
+train loss: 67318.951451
+val loss: 110247.270343
+----------
+Epoch 11/179, current lr=1e-06
+train loss: 60406.565848
+val loss: 84100.102413
+----------
+Epoch 12/179, current lr=1e-06
+Copied best model weights!
+train loss: 57851.159512
+val loss: 73372.855662
+----------
+Epoch 13/179, current lr=1e-06
+train loss: 54918.794514
+val loss: 82154.600866
+----------
+Epoch 14/179, current lr=1e-06
+Copied best model weights!
+train loss: 49550.774038
+val loss: 72435.642636
+----------
+Epoch 15/179, current lr=1e-06
+train loss: 49211.526442
+val loss: 75442.584468
+----------
+Epoch 16/179, current lr=1e-06
+Copied best model weights!
+train loss: 45349.841732
+val loss: 72319.976176
+----------
+Epoch 17/179, current lr=1e-06
+train loss: 44436.355039
+val loss: 82223.778156
+----------
+Epoch 18/179, current lr=1e-06
+train loss: 42832.622103
+val loss: 87180.231204
+----------
+Epoch 19/179, current lr=1e-06
+train loss: 40033.372467
+val loss: 76720.303914
+----------
+Epoch 20/179, current lr=1e-06
+train loss: 39021.148223
+val loss: 85350.041306
+----------
+Epoch 21/179, current lr=1e-06
+train loss: 37021.713642
+val loss: 76163.920096
+----------
+Epoch 22/179, current lr=1e-06
+train loss: 36976.981241
+val loss: 77798.069152
+----------
+Epoch 23/179, current lr=1e-06
+train loss: 38219.078168
+val loss: 91601.445854
+----------
+Epoch 24/179, current lr=1e-06
+train loss: 36980.111607
+val loss: 188768.097695
+----------
+Epoch 25/179, current lr=1e-06
+train loss: 35044.810762
+val loss: 78276.332689
+----------
+Epoch 26/179, current lr=1e-06
+train loss: 32857.884787
+val loss: 72674.627939
+----------
+Epoch 27/179, current lr=1e-06
+train loss: 31324.247167
+val loss: 76515.968131
+----------
+Epoch 28/179, current lr=1e-06
+train loss: 32551.183701
+val loss: 76077.562268
+----------
+Epoch 29/179, current lr=1e-06
+Copied best model weights!
+train loss: 32128.361414
+val loss: 69174.503326
+----------
+Epoch 30/179, current lr=1e-06
+train loss: 30199.650498
+val loss: 82289.409112
+----------
+Epoch 31/179, current lr=1e-06
+train loss: 29335.869484
+val loss: 72385.637531
+----------
+Epoch 32/179, current lr=1e-06
+train loss: 28526.887105
+val loss: 72040.415068
+----------
+Epoch 33/179, current lr=1e-06
+train loss: 27001.968128
+val loss: 69497.055074
+----------
+Epoch 34/179, current lr=1e-06
+train loss: 27250.315376
+val loss: 77929.062345
+----------
+Epoch 35/179, current lr=1e-06
+train loss: 27040.708469
+val loss: 72519.776067
+----------
+Epoch 36/179, current lr=1e-06
+train loss: 26392.435654
+val loss: 75584.260210
+----------
+Epoch 37/179, current lr=1e-06
+train loss: 26276.345531
+val loss: 76174.855430
+----------
+Epoch 38/179, current lr=1e-06
+train loss: 25545.870439
+val loss: 83668.423809
+----------
+Epoch 39/179, current lr=1e-06
+train loss: 25814.895368
+val loss: 81604.221689
+----------
+Epoch 40/179, current lr=1e-06
+train loss: 24384.113346
+val loss: 75703.183787
+----------
+Epoch 41/179, current lr=1e-06
+train loss: 24411.674472
+val loss: 75739.105739
+----------
+Epoch 42/179, current lr=1e-06
+train loss: 23910.727679
+val loss: 78944.455678
+----------
+Epoch 43/179, current lr=1e-06
+train loss: 23641.458577
+val loss: 79495.802676
+----------
+Epoch 44/179, current lr=1e-06
+train loss: 23116.056308
+val loss: 80222.600015
+----------
+Epoch 45/179, current lr=1e-06
+train loss: 23390.443832
+val loss: 91550.317837
+----------
+Epoch 46/179, current lr=1e-06
+train loss: 23251.754507
+val loss: 77905.444075
+----------
+Epoch 47/179, current lr=1e-06
+train loss: 22904.963255
+val loss: 77067.910814
+----------
+Epoch 48/179, current lr=1e-06
+train loss: 22959.405048
+val loss: 75819.328589
+----------
+Epoch 49/179, current lr=1e-06
+train loss: 22842.755795
+val loss: 82877.857905
+----------
+Epoch 50/179, current lr=1e-06
+Loading best model weights!
+train loss: 22208.058572
+val loss: 83632.235767
+----------
+Epoch 51/179, current lr=5e-07
+train loss: 28414.714414
+val loss: 72500.811881
+----------
+Epoch 52/179, current lr=5e-07
+train loss: 27287.647493
+val loss: 70854.240795
+----------
+Epoch 53/179, current lr=5e-07
+train loss: 26360.250215
+val loss: 71438.919013
+----------
+Epoch 54/179, current lr=5e-07
+train loss: 25920.840853
+val loss: 75221.383818
+----------
+Epoch 55/179, current lr=5e-07
+train loss: 25669.190204
+val loss: 74981.529858
+----------
+Epoch 56/179, current lr=5e-07
+train loss: 25326.423292
+val loss: 78638.718054
+----------
+Epoch 57/179, current lr=5e-07
+train loss: 24859.848965
+val loss: 78291.735767
+----------
+Epoch 58/179, current lr=5e-07
+train loss: 24535.829370
+val loss: 77889.950186
+----------
+Epoch 59/179, current lr=5e-07
+train loss: 24522.727743
+val loss: 79098.723546
+----------
+Epoch 60/179, current lr=5e-07
+train loss: 24024.415565
+val loss: 82731.873144
+----------
+Epoch 61/179, current lr=5e-07
+train loss: 23615.151528
+val loss: 82529.077274
+----------
+Epoch 62/179, current lr=5e-07
+train loss: 23534.619184
+val loss: 75106.904007
+----------
+Epoch 63/179, current lr=5e-07
+train loss: 23213.541016
+val loss: 82277.387918
+----------
+Epoch 64/179, current lr=5e-07
+train loss: 23262.707310
+val loss: 81686.555848
+----------
+Epoch 65/179, current lr=5e-07
+train loss: 23015.655284
+val loss: 82202.056853
+----------
+Epoch 66/179, current lr=5e-07
+train loss: 23154.930718
+val loss: 83459.908493
+----------
+Epoch 67/179, current lr=5e-07
+train loss: 22608.957933
+val loss: 83591.728264
+----------
+Epoch 68/179, current lr=5e-07
+train loss: 22557.686287
+val loss: 79160.653543
+----------
+Epoch 69/179, current lr=5e-07
+train loss: 22329.293269
+val loss: 80949.313196
+----------
+Epoch 70/179, current lr=5e-07
+train loss: 22329.011236
+val loss: 83032.792311
+----------
+Epoch 71/179, current lr=5e-07
+Loading best model weights!
+train loss: 21964.155413
+val loss: 83442.336943
+----------
+Epoch 72/179, current lr=2.5e-07
+train loss: 28342.099674
+val loss: 73408.000309
+----------
+Epoch 73/179, current lr=2.5e-07
+train loss: 27357.646635
+val loss: 76441.829981
+----------
+Epoch 74/179, current lr=2.5e-07
+train loss: 26666.079745
+val loss: 74532.107441
+----------
+Epoch 75/179, current lr=2.5e-07
+train loss: 26095.715144
+val loss: 76148.999072
+----------
+Epoch 76/179, current lr=2.5e-07
+train loss: 25865.595338
+val loss: 75045.293007
+----------
+Epoch 77/179, current lr=2.5e-07
+train loss: 25741.052026
+val loss: 74556.510210
+----------
+Epoch 78/179, current lr=2.5e-07
+train loss: 25265.266333
+val loss: 77506.102181
+----------
+Epoch 79/179, current lr=2.5e-07
+train loss: 25064.368883
+val loss: 77732.476949
+----------
+Epoch 80/179, current lr=2.5e-07
+train loss: 24664.583813
+val loss: 79243.198407
+----------
+Epoch 81/179, current lr=2.5e-07
+train loss: 24740.198940
+val loss: 81609.437732
+----------
+Epoch 82/179, current lr=2.5e-07
+train loss: 24275.398910
+val loss: 76243.936881
+----------
+Epoch 83/179, current lr=2.5e-07
+train loss: 24361.337483
+val loss: 79409.909653
+----------
+Epoch 84/179, current lr=2.5e-07
+train loss: 23966.838878
+val loss: 79355.471380
+----------
+Epoch 85/179, current lr=2.5e-07
+train loss: 24086.090788
+val loss: 81340.774288
+----------
+Epoch 86/179, current lr=2.5e-07
+train loss: 23762.299923
+val loss: 82099.525758
+----------
+Epoch 87/179, current lr=2.5e-07
+train loss: 24091.873970
+val loss: 78735.621132
+----------
+Epoch 88/179, current lr=2.5e-07
+train loss: 23322.081817
+val loss: 76879.132348
+----------
+Epoch 89/179, current lr=2.5e-07
+train loss: 23287.126374
+val loss: 79028.351098
+----------
+Epoch 90/179, current lr=2.5e-07
+train loss: 23185.903181
+val loss: 77060.506111
+----------
+Epoch 91/179, current lr=2.5e-07
+train loss: 22925.400176
+val loss: 81478.170715
+----------
+Epoch 92/179, current lr=2.5e-07
+Loading best model weights!
+train loss: 22866.039256
+val loss: 84261.060334
+----------
+Epoch 93/179, current lr=1.25e-07
+train loss: 28408.123970
+val loss: 71061.885984
+----------
+Epoch 94/179, current lr=1.25e-07
+train loss: 27287.276399
+val loss: 74549.919941
+----------
+Epoch 95/179, current lr=1.25e-07
+train loss: 27115.409491
+val loss: 72617.663908
+----------
+Epoch 96/179, current lr=1.25e-07
+train loss: 26688.553185
+val loss: 73523.204440
+----------
+Epoch 97/179, current lr=1.25e-07
+train loss: 26133.074562
+val loss: 74786.788908
+----------
+Epoch 98/179, current lr=1.25e-07
+train loss: 26343.884336
+val loss: 72428.077506
+----------
+Epoch 99/179, current lr=1.25e-07
+train loss: 25936.447824
+val loss: 74672.876160
+----------
+Epoch 100/179, current lr=1.25e-07
+train loss: 25430.362573
+val loss: 74718.800743
+----------
+Epoch 101/179, current lr=1.25e-07
+train loss: 25582.932349
+val loss: 72434.394725
+----------
+Epoch 102/179, current lr=1.25e-07
+train loss: 25555.614912
+val loss: 75722.146581
+----------
+Epoch 103/179, current lr=1.25e-07
+train loss: 25004.229181
+val loss: 78405.803682
+----------
+Epoch 104/179, current lr=1.25e-07
+train loss: 25213.250279
+val loss: 75208.701423
+----------
+Epoch 105/179, current lr=1.25e-07
+train loss: 25143.388650
+val loss: 77901.199876
+----------
+Epoch 106/179, current lr=1.25e-07
+train loss: 24953.462805
+val loss: 74898.833153
+----------
+Epoch 107/179, current lr=1.25e-07
+train loss: 25056.043634
+val loss: 77705.713413
+----------
+Epoch 108/179, current lr=1.25e-07
+train loss: 24509.852099
+val loss: 76712.434870
+----------
+Epoch 109/179, current lr=1.25e-07
+train loss: 24654.846487
+val loss: 76634.844678
+----------
+Epoch 110/179, current lr=1.25e-07
+train loss: 24502.319669
+val loss: 76394.053527
+----------
+Epoch 111/179, current lr=1.25e-07
+train loss: 24183.084714
+val loss: 77553.117033
+----------
+Epoch 112/179, current lr=1.25e-07
+train loss: 24290.084113
+val loss: 74791.317141
+----------
+Epoch 113/179, current lr=1.25e-07
+Loading best model weights!
+train loss: 24052.618518
+val loss: 77219.676284
+----------
+Epoch 114/179, current lr=6.25e-08
+train loss: 28457.699433
+val loss: 69687.999072
+----------
+Epoch 115/179, current lr=6.25e-08
+train loss: 28132.154576
+val loss: 70899.994663
+----------
+Epoch 116/179, current lr=6.25e-08
+train loss: 27666.532645
+val loss: 72458.813583
+----------
+Epoch 117/179, current lr=6.25e-08
+train loss: 27246.933465
+val loss: 71026.960164
+----------
+Epoch 118/179, current lr=6.25e-08
+train loss: 27255.488796
+val loss: 72963.653311
+----------
+Epoch 119/179, current lr=6.25e-08
+train loss: 26770.444647
+val loss: 71844.842435
+----------
+Epoch 120/179, current lr=6.25e-08
+train loss: 26765.877404
+val loss: 74094.032488
+----------
+Epoch 121/179, current lr=6.25e-08
+train loss: 26740.601241
+val loss: 74774.569384
+----------
+Epoch 122/179, current lr=6.25e-08
+train loss: 26318.169407
+val loss: 72024.192450
+----------
+Epoch 123/179, current lr=6.25e-08
+train loss: 26326.421617
+val loss: 74121.236928
+----------
+Epoch 124/179, current lr=6.25e-08
+train loss: 26052.237337
+val loss: 71811.635907
+----------
+Epoch 125/179, current lr=6.25e-08
+train loss: 25784.385882
+val loss: 73439.348236
+----------
+Epoch 126/179, current lr=6.25e-08
+train loss: 25676.782516
+val loss: 73206.406173
+----------
+Epoch 127/179, current lr=6.25e-08
+train loss: 25554.694926
+val loss: 71586.647819
+----------
+Epoch 128/179, current lr=6.25e-08
+train loss: 25845.382587
+val loss: 74428.047571
+----------
+Epoch 129/179, current lr=6.25e-08
+train loss: 25605.497253
+val loss: 74454.748144
+----------
+Epoch 130/179, current lr=6.25e-08
+train loss: 25557.318896
+val loss: 72980.011216
+----------
+Epoch 131/179, current lr=6.25e-08
+train loss: 25073.910264
+val loss: 72221.979734
+----------
+Epoch 132/179, current lr=6.25e-08
+train loss: 25354.476412
+val loss: 74321.446395
+----------
+Epoch 133/179, current lr=6.25e-08
+train loss: 25477.649811
+val loss: 79442.169477
+----------
+Epoch 134/179, current lr=6.25e-08
+Loading best model weights!
+train loss: 24986.388243
+val loss: 74140.869121
+----------
+Epoch 135/179, current lr=3.125e-08
+train loss: 28744.352571
+val loss: 70044.905167
+----------
+Epoch 136/179, current lr=3.125e-08
+Copied best model weights!
+train loss: 28254.501803
+val loss: 67761.488397
+----------
+Epoch 137/179, current lr=3.125e-08
+train loss: 27754.468235
+val loss: 71529.299505
+----------
+Epoch 138/179, current lr=3.125e-08
+train loss: 27853.086775
+val loss: 68560.817373
+----------
+Epoch 139/179, current lr=3.125e-08
+train loss: 27443.479954
+val loss: 70919.659963
+----------
+Epoch 140/179, current lr=3.125e-08
+train loss: 27260.048120
+val loss: 70865.353806
+----------
+Epoch 141/179, current lr=3.125e-08
+train loss: 27430.047090
+val loss: 70431.709932
+----------
+Epoch 142/179, current lr=3.125e-08
+train loss: 27522.874742
+val loss: 72292.487392
+----------
+Epoch 143/179, current lr=3.125e-08
+train loss: 26896.613839
+val loss: 74873.960009
+----------
+Epoch 144/179, current lr=3.125e-08
+train loss: 27045.215080
+val loss: 71291.303759
+----------
+Epoch 145/179, current lr=3.125e-08
+train loss: 26660.872317
+val loss: 72584.525913
+----------
+Epoch 146/179, current lr=3.125e-08
+train loss: 26654.250086
+val loss: 72978.874691
+----------
+Epoch 147/179, current lr=3.125e-08
+train loss: 26434.590938
+val loss: 74973.729734
+----------
+Epoch 148/179, current lr=3.125e-08
+train loss: 26444.145840
+val loss: 70563.489712
+----------
+Epoch 149/179, current lr=3.125e-08
+train loss: 26244.731027
+val loss: 74603.768100
+----------
+Epoch 150/179, current lr=3.125e-08
+train loss: 26151.493175
+val loss: 73782.604966
+----------
+Epoch 151/179, current lr=3.125e-08
+train loss: 26023.178657
+val loss: 75283.859607
+----------
+Epoch 152/179, current lr=3.125e-08
+train loss: 26022.251653
+val loss: 72795.133045
+----------
+Epoch 153/179, current lr=3.125e-08
+train loss: 26298.061105
+val loss: 74442.818998
+----------
+Epoch 154/179, current lr=3.125e-08
+train loss: 26314.762234
+val loss: 72881.671179
+----------
+Epoch 155/179, current lr=3.125e-08
+train loss: 26173.719523
+val loss: 73686.892481
+----------
+Epoch 156/179, current lr=3.125e-08
+train loss: 25953.902279
+val loss: 74125.074876
+----------
+Epoch 157/179, current lr=3.125e-08
+Loading best model weights!
+train loss: 25834.034276
+val loss: 75189.922803
+----------
+Epoch 158/179, current lr=1.5625e-08
+train loss: 27812.714329
+val loss: 71983.510442
+----------
+Epoch 159/179, current lr=1.5625e-08
+train loss: 27426.525004
+val loss: 70662.567528
+----------
+Epoch 160/179, current lr=1.5625e-08
+train loss: 27743.609246
+val loss: 74227.864867
+----------
+Epoch 161/179, current lr=1.5625e-08
+train loss: 27650.863088
+val loss: 70840.177754
+----------
+Epoch 162/179, current lr=1.5625e-08
+train loss: 27344.782688
+val loss: 70778.000696
+----------
+Epoch 163/179, current lr=1.5625e-08
+train loss: 27111.151399
+val loss: 74282.493735
+----------
+Epoch 164/179, current lr=1.5625e-08
+train loss: 27188.824798
+val loss: 70939.503790
+----------
+Epoch 165/179, current lr=1.5625e-08
+train loss: 27018.155713
+val loss: 71830.834777
+----------
+Epoch 166/179, current lr=1.5625e-08
+train loss: 27396.364741
+val loss: 71483.588103
+----------
+Epoch 167/179, current lr=1.5625e-08
+train loss: 26977.785586
+val loss: 70278.166383
+----------
+Epoch 168/179, current lr=1.5625e-08
+train loss: 27445.205035
+val loss: 72498.550433
+----------
+Epoch 169/179, current lr=1.5625e-08
+train loss: 27083.162345
+val loss: 74456.059097
+----------
+Epoch 170/179, current lr=1.5625e-08
+train loss: 27017.603559
+val loss: 71641.415068
+----------
+Epoch 171/179, current lr=1.5625e-08
+train loss: 27210.561448
+val loss: 72217.903929
+----------
+Epoch 172/179, current lr=1.5625e-08
+train loss: 26734.686320
+val loss: 71932.713026
+----------
+Epoch 173/179, current lr=1.5625e-08
+train loss: 26889.440204
+val loss: 71916.091739
+----------
+Epoch 174/179, current lr=1.5625e-08
+train loss: 26707.135839
+val loss: 71436.181235
+----------
+Epoch 175/179, current lr=1.5625e-08
+train loss: 26652.214457
+val loss: 75399.535891
+----------
+Epoch 176/179, current lr=1.5625e-08
+train loss: 26574.649253
+val loss: 76010.086092
+----------
+Epoch 177/179, current lr=1.5625e-08
+train loss: 26528.817222
+val loss: 75832.951191
+----------
+Epoch 178/179, current lr=1.5625e-08
+train loss: 26339.687028
+val loss: 72083.125464
+----------
+Epoch 179/179, current lr=1.5625e-08
+train loss: 26573.776571
+val loss: 72815.151067
+----------
